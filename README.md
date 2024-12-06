@@ -26,7 +26,10 @@ Here are some ideas to get you started:
 </a>
 
 # GitHub Stats :
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=blueonline07&show_icons=true&locale=en&layout=compact" alt="blueonline07 Top Languages" />
+<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=blueonline07&show_icons=true&locale=en&layout=compact" alt="blueonline07 Top Languages" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=blueonline07&show_icons=true&locale=en" alt="blueonline07 Stats" />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=blueonline07&show_icons=true&locale=en" alt="blueonline07 Stats" />
 
