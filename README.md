@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=blueonline07&show_icons=true&locale=en" alt="blueonline07 Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=blueonline073&" alt="blueonline07's Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=blueonline07&" alt="blueonline07's Streak Stats" />
