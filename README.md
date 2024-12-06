@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3>Lê Duy Khang HCMUT - Ho Chi Minh City University Of Technology, VNUHCM </h3>
 
 # Social Media
-<a href="https://www.facebook.com/ldkhang1201" target="_blank">
+<a href="https://www.facebook.com/ldkhang1201" target="_blank" style="{display : inline}">
   <img
     src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
   />
@@ -30,4 +30,3 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=blueonline07&show_icons=true&locale=en" alt="blueonline07 Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=blueonline07&" alt="blueonline07's Streak Stats" />
