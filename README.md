@@ -14,22 +14,38 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-<h3>Lê Duy Khang HCMUT - Ho Chi Minh City University Of Technology, VNUHCM </h3>
+<h3 style="text-align: center;">
+  Lê Duy Khang HCMUT - Ho Chi Minh City University Of Technology, VNUHCM
+</h3>
 
 # Social Media
-<a href="https://www.facebook.com/ldkhang1201" target="_blank" style="{display : inline}">
+<a href="https://www.facebook.com/ldkhang1201" target="_blank" style="display: inline;">
   <img
     src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
   />
 </a>
 
 # GitHub Stats :
-<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=blueonline07&show_icons=true&locale=en&layout=compact" alt="blueonline07 Top Languages" />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=blueonline07&show_icons=true&locale=en" alt="blueonline07 Stats" />
+<div
+  style="
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    text-align: center;
+  "
+>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=blueonline07&show_icons=true&locale=en&layout=compact"
+    alt="blueonline07 Top Languages"
+    style="max-width: 45%;"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=blueonline07&show_icons=true&locale=en"
+    alt="blueonline07 Stats"
+    style="max-width: 45%;"
+  />
 </div>
 
 
